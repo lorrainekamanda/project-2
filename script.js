@@ -13,7 +13,25 @@ function akanNames(){
     
     
     
+    var CalculateDate = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD )% 7;
+    CalculateDate= Math.floor(CalculateDate)
     
+    if( MM <1||MM>12){
+        alert("please fill in the correct month");
+    };
+    if(DD>31 || DD <1){
+        alert("please fill in the correct date")
+    };
+    
+    
+    if (gender ==="male"){
+        sex = male;
+    }
+     else{
+        sex = female;
+    };
+    
+   
 };
 
 
