@@ -6,6 +6,13 @@ function akanNames(){
     var YY = parseInt(year.slice(2,4));
     
     
+    var male  =[ "kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
+    var female = [ "Akosua","Adwoa","Abenaa","Akua","Yaa","Afua"];
+    var gender =document.getElementById("gender").value;
+    
+    
+    
+    
     
 };
 
