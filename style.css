@@ -1,0 +1,29 @@
+ .col1{
+   background-image: url(ppl.jpg);
+   height: 670px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0;
+   padding: 0;
+   width: 200px;
+   color: white;
+   background-color: rgba(248, 216, 245, 0.7);
+   opacity: .8;
+  
+   
+    }
+    .container1{
+    border: 1px solid crimson;
+    margin: 0PX;
+    padding: 0;
+    max-width: 100%;
+    max-height: 100%;
+    }
+    .col2{
+       
+        
+    }
+    p{
+        padding: 20px;
+        padding-left: 35px;
+    }
