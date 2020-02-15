@@ -1,29 +1,64 @@
- .col1{
-   background-image: url(ppl.jpg);
+.col1{
+   background-image:url(sun4.jpeg);
    height: 670px;
    background-repeat: no-repeat;
    background-size: cover;
    margin: 0;
    padding: 0;
-   width: 200px;
-   color: white;
-   background-color: rgba(248, 216, 245, 0.7);
-   opacity: .8;
-  
+   width: 100%;
+   color:white;
+   padding: 0px;
+   filter: blur(.3px);
+   background-color: rgb(0, 0, 0);
+   background-color: rgba(0,0,0,1.9);
    
-    }
-    .container1{
-    border: 1px solid crimson;
-    margin: 0PX;
-    padding: 0;
-    max-width: 100%;
-    max-height: 100%;
-    }
-    .col2{
-       
-        
-    }
-    p{
-        padding: 20px;
-        padding-left: 35px;
-    }
+
+}
+
+body{
+   margin: 15px;
+   margin-left: 15px;
+   margin-right: 15px;
+   background-image: url(l1.jpeg); 
+   
+   
+}
+.container1{
+   margin: 0PX;
+   padding: 0;
+   max-width: 100%;
+   max-height: 95%;
+
+}
+.col2{
+   padding: 20px;  
+   color: white;
+   background-color: darkorchid;
+   opacity: .9;
+}
+    
+p{
+   padding: 20px;
+   padding-left: 40px;
+   font-size: 20px;
+  
+
+}
+h1{
+   padding-left: 200px;
+   font-size: 60px;
+   
+}
+    
+.row1{
+padding-left: 22px;
+padding-right: 22px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+
+    
+
+
+    
