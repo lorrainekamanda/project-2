@@ -6,8 +6,9 @@
  This is a website developed for the purpose of obtaining Akan names,the website has a brief description of  <br/>
  the origin of Akan Names,the website is extremely easy to navigate , it has a form where the user keys in the <br/>
  important required details  and the  Akan names is generated immediately  <br/>
- understand and follow  This site was built and updated on February 2020<br/>
- 
+ The Akan Names orginated from the beautiful country of Ghana<br/>
+ ![Beautiful Ghana](gh.jpeg)
+
 
 
 ## **Team;**<br/>
@@ -23,7 +24,7 @@ The user is required to key in the following details;<br/>
 * Year of Birth
 * Month they were born 
 * Their date of Birth
-* Their gender 
+* Their gender<br/> 
 *Please feel free to have a try!*<br/>
 
 
