@@ -1,8 +1,8 @@
-## **AKENA NAMES WEBSITE;**<br/>
+## **AKAN NAMES WEBSITE;**<br/>
   ### HELLO WELCOME! <br/>
   Name : Lorraine Kamanda <br/>
  Email:lorrainekamanda@gmail.com <br/>
- Website link [ Akan Names Website](https://lorrainekamanda.github.io/project-2/) <br/>
+ Website link: [ Akan Names Website](https://lorrainekamanda.github.io/project-2/) <br/>
  This is a website developed for the purpose of obtaining Akan names,the website has a brief description of  <br/>
  the origin of Akan Names,the website is extremely easy to navigate , it has a form where the user keys in the <br/>
  important required details  and the  Akan names is generated immediately  <br/>
@@ -48,7 +48,7 @@ if you run to a bug<br/>
 
 ## **Licencing;**<br/>
 The project is by Lorraine Kamanda<br/>
-*licence by [MIT LICENCE](licence.txt)<br/> 
+*licence by Copyright (c) (Lorraine Njoki Kamanda)[MIT LICENCE](licence.txt)<br/> 
 
 
 ## **Contacts;**<br/>
